@@ -1,0 +1,9 @@
+form {
+  font-size: 14px;
+  background-color: #ffffff50;
+  padding: 24px;
+  width: 95vw;
+  max-width: 420px;
+  border-radius: 16px;
+  box-shadow: #ffffff 1px 1px 2px 1px;
+}

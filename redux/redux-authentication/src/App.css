@@ -1,0 +1,5 @@
+main.app {
+  min-height: 80vh;
+  display: grid;
+  place-items: center;
+}

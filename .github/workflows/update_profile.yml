@@ -1,4 +1,6 @@
-name: 
+name: Update profile readme
+
+on: [push]
 
 jobs:
   dispatch:

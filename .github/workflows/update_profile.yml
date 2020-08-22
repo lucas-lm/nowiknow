@@ -1,0 +1,12 @@
+name: 
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invoke workflow in another repo with inputs
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build.yml
+          repo: lucas-lm/lucas-lm
+          token: ${{ secrets.PERSONAL_TOKEN }}

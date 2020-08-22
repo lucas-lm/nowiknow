@@ -8,10 +8,14 @@ Since git allow us to write stories, I decided to register my learning history i
 
 ## I still don't know
 
+- [ ] [Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
+- [ ] [TypeScript Decorators](https://www.typescriptlang.org/docs/handbook/decorators.html)
 - [ ] [Redux](https://redux.js.org/)
 - [ ] [Firebase](https://firebase.google.com/)
 - [ ] [Docker](https://www.docker.com/)
+- [ ] [lerna](https://lerna.js.org/)
 - [ ] [Adonis.js](https://adonisjs.com/)
+- [ ] [Web Assembly](https://webassembly.org/)
 
 
 Follow this repo to watch my learning journey.

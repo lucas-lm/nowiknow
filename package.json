@@ -1,0 +1,12 @@
+{
+  "name": "nowiknow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucas-lm/nowiknow.git",
+  "author": "Lucas Miranda <lucas-m@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": ["learning/*"]
+  }
+}

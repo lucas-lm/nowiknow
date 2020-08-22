@@ -6,7 +6,7 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Invoke workflow in another repo with inputs
+      - name: Invoke workflow in another repo
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: build.yml

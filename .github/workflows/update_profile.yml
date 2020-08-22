@@ -9,6 +9,6 @@ jobs:
       - name: Invoke workflow in another repo
         uses: benc-uk/workflow-dispatch@v1
         with:
-          workflow: build.yml
+          workflow: 1
           repo: lucas-lm/lucas-lm
           token: ${{ secrets.PERSONAL_TOKEN }}

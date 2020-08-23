@@ -16,6 +16,7 @@ Since git allow us to write stories, I decided to register my learning history i
 - [ ] [lerna](https://lerna.js.org/)
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Web Assembly](https://webassembly.org/)
+- [ ] [Gatsby](https://www.gatsbyjs.com/)
 
 
 Follow this repo to watch my learning journey.

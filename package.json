@@ -7,6 +7,18 @@
   "license": "MIT",
   "private": true,
   "workspaces": {
-    "packages": ["learning/*"]
+    "packages": [
+      "learning/*"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
+    "husky": "^4.2.5"
   }
 }

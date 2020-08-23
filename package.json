@@ -6,6 +6,9 @@
   "author": "Lucas Miranda <lucas-m@outlook.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "commit": "git-cz"
+  },
   "workspaces": {
     "packages": [
       "learning/*"
@@ -19,6 +22,8 @@
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
     "@commitlint/config-conventional": "^9.1.2",
+    "commitizen": "^4.1.5",
+    "cz-conventional-changelog": "^3.2.0",
     "husky": "^4.2.5"
   }
 }

@@ -4,12 +4,12 @@ JavaScript provides an interface to create objects which we can loop through it 
 
 ## Table of Contents
 
-    - [What is iterators](#what-is-iterators)
-    - [Native iterables in javascript and how to use it](#native-iterables-in-javascript-and-how-to-use-it) 
-    - [The iterator method and JavaScript Symbols](#the-iterator-method-and-javascript-symbols)
-    - [Implementing iterables](#implementing-iterables)
-    - [About generators](#about-generators)
-  - [References](#references)
+  - [What is iterators](#what-is-iterators)
+  - [Native iterables in javascript and how to use it](#native-iterables-in-javascript-and-how-to-use-it) 
+  - [The iterator method and JavaScript Symbols](#the-iterator-method-and-javascript-symbols)
+  - [Implementing iterables](#implementing-iterables)
+  - [About generators](#about-generators)
+- [References](#references)
 
 ### What is iterators?
 

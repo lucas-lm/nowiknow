@@ -18,6 +18,7 @@ Since git allow us to write stories, I decided to register my learning history i
 - [ ] [Adonis.js](https://adonisjs.com/)
 - [ ] [Web Assembly](https://webassembly.org/)
 - [ ] [Gatsby](https://www.gatsbyjs.com/)
+- [ ] [Recoil](https://recoiljs.org)
 
 
 Follow this repo to watch my learning journey.
